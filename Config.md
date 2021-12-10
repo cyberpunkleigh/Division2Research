@@ -13,5 +13,4 @@
 
 
 <img src="https://cdn.discordapp.com/attachments/918680419141046322/918953162243727450/unknown.png">
-<img src="https://cdn.discordapp.com/attachments/918680419141046322/918953019196993556/unknown.png">
 <img src="https://cdn.discordapp.com/attachments/918680419141046322/918952903870390272/unknown.png">
