@@ -28,7 +28,7 @@
 | "max anisotropy" | Anisotropy | 1 | 1x - 2x - 4x - 8x - 16x |
 | "anisotropy quality" | Anisotropy Quality | 1.0 |  |
 | "ssao quality 2" | Ambient Occlusion Quality | 1 | Off - Low - Medium - High - Very High |
-| "object detail" | "Object Detail" | 0.0 |  |
+| "object detail" | Object Detail | 0.0 |  |
 | "streamer memory fraction" | Texture Memory (Relative) | 0.75 |  |
 | "streamer dedicated budget" | Texture Memory (Absolute) | 1024.0 |  |
 | "extra streaming distance" | Extra Streaming Distance | 0.0 |  |
