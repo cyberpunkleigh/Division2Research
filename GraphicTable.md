@@ -1,4 +1,5 @@
 # Settings Dumped from Division Engine
+## Documents\My Games\Tom Clancy's The Division 2\graphic settings.cfg
 
 | CVAR Name | CVAR Description | Default Value | Extra Info |
 | --- | --- | --- | --- |
